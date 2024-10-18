@@ -1,0 +1,15 @@
+This initial list can be in any word, so for example ’slash’ covers slash, as well as slashing, slashes, slashed etc.
+
+headbang,inhale,parasuicide,scald,scarred,inflict,painful,abuse,tear,suicidal,death,instrument,pick,inflicted,wound,implement,chemical,medication,drowning,ambulance,suicide,poison,drown,sharp,jump,injury,ripped,blood,mutilate,hitting,punch,mutilation,injure,injure,pills,tablets,shard,overdose,bleed,bruise,vagina,knives,bleeding,fist,genital,punch,scab,knife,slash,wire,blade,slit,razor,embed,gouge,wristnoose,bridge,wrist,ammunition,cutter,ligature,bleach,bullet,laxative,throwing,vomit,slice,slicing,pound,noose,scratching,cyanide,cynaide,misfire,weapon,fired,research,kms,drugs,murder,tylenol,targetted,shoot,buy,Goodbye,goodbye,Paracetamol,boiling,euthanised,euthanasia,
+
+Other moderating issues:
+
+covid,corona,fb,facebook,twitter,instagram,crowd,funding,GoFundMe,admin,moderator,mods,Melzer,school,
+
+This 2nd list of keywords cannot be part of any other word. 
+
+hung,od,bus,car,harm,cut,pain,dead,train,hair,scar,scars,die,dies,trains,cars,rope,ropes,pin,skin,burn,burns,commit,stab,stabbed,stabs,cuts,cutting,dig,digging,digged,bite,bites,pull,trigger,pulled,date,set,hurt,hurting,hurts,bitten,dying,scratch,scratched,scratches,steering,wheel,CTB,ammo,glass,glasses,meds,catch,bus,lion,lions,burn,burned,burns,jail,police,top,topped,topping,pounds,stones,kgs,kilo,kilos,tie,tied,neck,stone,kg,hang,hanged,kill,kills,killed,stab,stabbed,stabs,hanging,gun,tarot,choking,choke,brick,wall,rifle,pistol,killing,kms,walking,front,stairs,buy,harmed,harming,harms,rocks,rock,tube,slapped,slapping,slap,Dignitas,Pegasos,alcohol,med,
+
+Other moderating issues:
+
+fourteen,fifteen,sixteen,seventeen,questionnaire
